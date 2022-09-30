@@ -1,0 +1,8 @@
+label: dos
+label-id: 0x50380754
+device: myDisk.img
+unit: sectors
+
+myDisk.img1 : start=        2048, size=       67953, type=b
+myDisk.img2 : start=       71680, size=       70001, type=b
+myDisk.img3 : start=      143360, size=      118784, type=b
